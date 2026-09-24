@@ -11,11 +11,15 @@
   <Project Name="Ejemplo01" Path="Ejemplo01/Ejemplo01.project" Active="No"/>
   <Project Name="Ejemplo01" Path="Ejemplo01/Ejemplo01.project" Active="No"/>
   <Project Name="Ejercicio09" Path="Ejercicio09/Ejercicio09.project" Active="No"/>
-  <Project Name="Ejercicio10" Path="Ejercicio10/Ejercicio10.project" Active="Yes"/>
-  <Project Name="Ejercicio11" Path="Ejercicio11/Ejercicio11.project"/>
-  <Project Name="Ejercicio12" Path="Ejercicio12/Ejercicio12.project"/>
-  <Project Name="Ejercicio13" Path="Ejercicio13/Ejercicio13.project"/>
-  <Project Name="Ejercicio14" Path="Ejercicio14/Ejercicio14.project"/>
+  <Project Name="Ejercicio10" Path="Ejercicio10/Ejercicio10.project" Active="No"/>
+  <Project Name="Ejercicio11" Path="Ejercicio11/Ejercicio11.project" Active="No"/>
+  <Project Name="Ejercicio12" Path="Ejercicio12/Ejercicio12.project" Active="No"/>
+  <Project Name="Ejercicio13" Path="Ejercicio13/Ejercicio13.project" Active="No"/>
+  <Project Name="Ejercicio14" Path="Ejercicio14/Ejercicio14.project" Active="No"/>
+  <Project Name="Ejercicio013-Sesion3" Path="Ejercicio13Class4/Ejercicio13Class4.project" Active="No"/>
+  <Project Name="Colas" Path="Colas/Colas.project" Active="Yes"/>
+  <Project Name="Pilas" Path="Pilas/Pilas.project" Active="No"/>
+  <Project Name="Pilas" Path="Pilas/Pilas.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -35,6 +39,10 @@
       <Project Name="Ejercicio12" ConfigName="Debug"/>
       <Project Name="Ejercicio13" ConfigName="Debug"/>
       <Project Name="Ejercicio14" ConfigName="Debug"/>
+      <Project Name="Ejercicio013-Sesion3" ConfigName="Debug"/>
+      <Project Name="Colas" ConfigName="Debug"/>
+      <Project Name="Pilas" ConfigName="Debug"/>
+      <Project Name="Pilas" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -54,6 +62,10 @@
       <Project Name="Ejercicio12" ConfigName="Release"/>
       <Project Name="Ejercicio13" ConfigName="Release"/>
       <Project Name="Ejercicio14" ConfigName="Release"/>
+      <Project Name="Ejercicio013-Sesion3" ConfigName="Release"/>
+      <Project Name="Colas" ConfigName="Release"/>
+      <Project Name="Pilas" ConfigName="Release"/>
+      <Project Name="Pilas" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
